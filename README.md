@@ -2,6 +2,7 @@
 
 ## 概要
 CSVファイルをアップロードして統計分析を行えるアプリ
+https://miki-same-fastanalysis-appmain-t8txmf.streamlit.app/
 
 ## ローカルでの実行
 ```
